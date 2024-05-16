@@ -1,0 +1,7 @@
+./blocks/*
+./__pycache__/*
+./wallet/*
+./.ignore/*
+./venv/*
+venv
+
